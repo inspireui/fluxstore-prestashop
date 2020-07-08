@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => 'localhost',
+    'database_port' => '',
+    'database_name' => 'inspireu_pres937',
+    'database_user' => 'inspireu_pres937',
+    'database_password' => 'SS]p)696OP',
+    'database_prefix' => 'psqt_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'wzskq77onp3dvq5xgelwrk3apcbusdt9t7dixl9d7nz8a8ce22nfywck',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2020-06-11',
+    'locale' => 'en-US',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'ka1caynw5d0fldio5qemvoyojcvutbdamdh520vodwgavqpszr2znug4',
+    'cookie_iv' => 'anlwpukp',
+    'new_cookie_key' => 'def00000aafc3f9327e7e3b22e801c11ce783b3285a186d2b9ee330635af86a6d44bcd8fd2cdbd5d33a7365d5b239ee952b71e584d84cdb171259c7ed40b43632f7a4e37',
+  ),
+);

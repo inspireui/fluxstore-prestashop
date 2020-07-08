@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>customapi</name>
+	<displayName><![CDATA[Prestashop Custom API]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[This is custom webservice API]]></description>
+	<author><![CDATA[Vũ Văn Mạnh]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>

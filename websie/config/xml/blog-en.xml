@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/en/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/en/blog/feed.xml</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.prestashop.com/en/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Preparing for the summer sales: the 8 essential modules</title>
+    <link>https://www.prestashop.com/en/blog/essential-modules-sales</link>
+    <description>Summer is already upon us, and as you know, with the nice weather comes the </description>
+     <pubDate>Fri, 26 Jun 2020 16:31:21 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/essential-modules-sales</guid>
+  </item>
+  <item>
+    <title>PrestaShop (e)Commerce Week: an international week of online conferences</title>
+    <link>https://www.prestashop.com/en/blog/prestashop-ecommerce-week-2020</link>
+    <description>As a privileged partner of the digital transition of businesses, PrestaShop is pleased to hold the </description>
+     <pubDate>Wed, 10 Jun 2020 18:23:21 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/prestashop-ecommerce-week-2020</guid>
+  </item>
+  <item>
+    <title>Top 10 modules to optimize the customer experience on your online store</title>
+    <link>https://www.prestashop.com/en/blog/ux-conversion-rate</link>
+    <description>An online store is much more than just an online catalogue: it&#039;s a browsing experience for your visitors and a buying ex</description>
+     <pubDate>Mon, 08 Jun 2020 14:06:38 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/ux-conversion-rate</guid>
+  </item>
+  <item>
+    <title>Step-by-step guide: Maximizing the use of the ‘Estimated Delivery’ module</title>
+    <link>https://www.prestashop.com/en/blog/maximizing-estimated-delivery-module</link>
+    <description>Since the emergence of the coronavirus pandemic, many small and medium enterprises and even big companies have embraced </description>
+     <pubDate>Thu, 04 Jun 2020 15:45:53 +0200</pubDate>
+ <dc:creator>Pol Rué</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/maximizing-estimated-delivery-module</guid>
+  </item>
+  <item>
+    <title>Shipping During COVID-19</title>
+    <link>https://www.prestashop.com/en/blog/shipping-during-coronavirus</link>
+    <description>COVID-19 has caused both shipping volume and delivery times to increase dramatically.</description>
+     <pubDate>Wed, 27 May 2020 18:03:27 +0200</pubDate>
+ <dc:creator>James Messer</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/shipping-during-coronavirus</guid>
+  </item>
+  <item>
+    <title>Understand technical SEO terms and how to monitor your backlinks</title>
+    <link>https://www.prestashop.com/en/blog/understand-SEO-backlinks</link>
+    <description>Are you sure you are getting the most out of your link building efforts?</description>
+     <pubDate>Thu, 14 May 2020 13:46:57 +0200</pubDate>
+ <dc:creator>bulldesign</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/understand-SEO-backlinks</guid>
+  </item>
+  <item>
+    <title>Increase conversion rates through better shopping basket management</title>
+    <link>https://www.prestashop.com/en/blog/cart-conversion-2020</link>
+    <description>Contrary to the old saying, when it comes to online shopping, it&#039;s best for customers to put as many eggs as possible in</description>
+     <pubDate>Mon, 11 May 2020 14:59:33 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/cart-conversion-2020</guid>
+  </item>
+  <item>
+    <title>Be vigilant: phishing attempt posing as a PrestaShop email</title>
+    <link>https://www.prestashop.com/en/blog/phishing-attempt-prestashop</link>
+    <description>An phishing operation is currently ongoing and posing as a PrestaShop email.</description>
+     <pubDate>Thu, 07 May 2020 17:50:37 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/phishing-attempt-prestashop</guid>
+  </item>
+  <item>
+    <title>PrestaShop Order Fulfillment Automation with Fulfillment Bridge</title>
+    <link>https://www.prestashop.com/en/blog/fulfillment-cloud-automation</link>
+    <description>Is Fulfillment Automation what I think it is?</description>
+     <pubDate>Mon, 04 May 2020 17:23:59 +0200</pubDate>
+ <dc:creator>Kais Khadhraoui</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/fulfillment-cloud-automation</guid>
+  </item>
+  <item>
+    <title> COVID-19: how PrestaShop teams are dealing with the lockdown</title>
+    <link>https://www.prestashop.com/en/blog/prestashop-lockdown-tips</link>
+    <description>While lockdown is the rule, PrestaShop teams are are still at your service.</description>
+     <pubDate>Wed, 29 Apr 2020 16:13:18 +0200</pubDate>
+ <dc:creator>Aurélien Bellanger</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/prestashop-lockdown-tips</guid>
+  </item>
+  </channel>
+</rss>
